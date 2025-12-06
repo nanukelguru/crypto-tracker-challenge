@@ -30,10 +30,7 @@ npx expo start
 Angelica Lopez
 ```
 
-**2. Añade capturas de pantalla** (opcional):
 
-Puedes agregar la captura que tienes de tu app funcionando al README.
-
-**3. Tu proyecto está listo para compartir** con el link:
+link:
 ```
 https://github.com/nanukelguru/crypto-tracker-challenge
