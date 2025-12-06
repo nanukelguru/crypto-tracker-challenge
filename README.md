@@ -27,7 +27,7 @@ npx expo start
 
 ## 👩‍💻 Desarrollado por
 
-Angelica Lopez
+Angélica López
 ```
 
 
