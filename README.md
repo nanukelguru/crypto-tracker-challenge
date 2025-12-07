@@ -12,6 +12,10 @@ Aplicación de seguimiento de criptomonedas en tiempo real construida con React 
 - [ ]  Logos de las monedas
 - [ ]  Formato de precios en USD
 
+- [ ]  ### CSS
+
+- [ ] **Uso de selectores de CSS**
+
 ## 🛠️ Tecnologías
 
 - React Native
