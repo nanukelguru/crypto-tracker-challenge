@@ -26,7 +26,7 @@ npx expo start
 ```
 ## 📱 Capturas de pantalla
 
-![Crypto Tracker Demo](./screenshots/crypto-tracker-demo.png)
+![Crypto Tracker Demo](./screenshots/crypto_currencys.png)
 
 ## 👩‍💻 Desarrollado por
 
