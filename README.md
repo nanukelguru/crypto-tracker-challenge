@@ -24,6 +24,9 @@ Aplicación de seguimiento de criptomonedas en tiempo real construida con React 
 npm install
 npx expo start
 ```
+## 📱 Capturas de pantalla
+
+![Crypto Tracker Demo](./screenshots/crypto-tracker-demo.png)
 
 ## 👩‍💻 Desarrollado por
 
